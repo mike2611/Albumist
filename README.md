@@ -3,6 +3,10 @@
 
 > A Project that gets the top albums from Spotify
 
+## Live Demo
+
+[Live Demo Link]([https://mike2611.github.io/Albumist/])
+
 
 ## Mobile
 
@@ -27,9 +31,6 @@ This is a webapp that gets information using the Spotify API and also saves some
 - Webhint
 - Stylelint
 
-## Live Demo
-
-[Live Demo Link]([https://katiscoding.github.io/JSCapstone/dist](https://mike2611.github.io/Albumist/))
 
 
 ## Getting Started

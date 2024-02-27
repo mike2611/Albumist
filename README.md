@@ -5,7 +5,7 @@
 
 ## Live Demo
 
-[Live Demo Link]([https://mike2611.github.io/Albumist/])
+[Click For Live Demo Link](https://mike2611.github.io/Albumist/)
 
 
 ## Mobile

@@ -16,6 +16,11 @@ html {
   background-color: #212529ab;
 }
 
+.navbar h1 {
+  font-size: 1.8rem;
+  color: white;
+}
+
 .navbar .navbar-brand {
   font-size: 1.5rem;
 }

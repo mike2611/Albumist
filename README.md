@@ -3,7 +3,16 @@
 
 > A Project that gets the top albums from Spotify
 
-![screenshot](https://cdn.discordapp.com/attachments/637141086334222369/898367177776828426/unknown.png)
+
+## Mobile
+
+![image](https://github.com/mike2611/Albumist/assets/28109626/559e0bfb-3318-46e9-af76-7a35ef80ecb6)
+
+
+## Desktop
+
+![image](https://github.com/mike2611/Albumist/assets/28109626/fc2be404-1669-453f-ab13-7a905107a5a3)
+
 
 This is a webapp that gets information using the Spotify API and also saves some information about users using the Involvement API, the objective of the app is retrieving the albums where a top song from spotify is in.
 
@@ -20,7 +29,7 @@ This is a webapp that gets information using the Spotify API and also saves some
 
 ## Live Demo
 
-[Live Demo Link](https://katiscoding.github.io/JSCapstone/dist)
+[Live Demo Link]([https://katiscoding.github.io/JSCapstone/dist](https://mike2611.github.io/Albumist/))
 
 
 ## Getting Started

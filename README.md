@@ -3,7 +3,7 @@
 
 > A Project that gets the top albums from Spotify
 
-## Live Demo
+# Live Demo Link
 
 [Click For Live Demo Link](https://mike2611.github.io/Albumist/)
 
